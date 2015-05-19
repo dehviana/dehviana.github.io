@@ -1,0 +1,55 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		André F. Viana - Front End Dev / Designer de Interfaces
+tagline:	'blog'
+description:	'Blog de um Front End Dev / Designer de Interfaces'
+url:		http://dehviana.github.io
+commentsystem:	google
+disqus:		dehviana
+
+author:
+  name:		'André L. Ferreira Viana'
+  url:		https://twitter.com/alfv_
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon2.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/alfv_
+    desc:	Siga-me no twitter
+
+  - icon:	github
+    url:	https://github.com/dehviana
+    desc:	Acesse meu github
+
+  - icon:	googleplus-alt
+    url:	https://behance.net/dehviana
+    desc:	Me adicione no Behance
+
+  - icon:	feed
+    url:	http://dehviana.github.io/atom.xml
+    desc:	Inscreva-se no meu feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	Sobre
+    url:	/sobre.html
+
+
+copyright:
+  author:	André L. Ferreira Viana
+  url:		http://dehviana.github.io
+  type_title:	Alguns direitos reservados
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5/br
