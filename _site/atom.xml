@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Camporez</title>
- <link href="http://camporez.github.io/atom.xml" rel="self"/>
- <link href="http://camporez.github.io/"/>
- <updated>2015-05-19T18:54:16-03:00</updated>
- <id>http://camporez.github.io</id>
+ <title>André F. Viana</title>
+ <link href="http://dehviana.github.io/atom.xml" rel="self"/>
+ <link href="http://dehviana.github.io/"/>
+ <updated>2015-06-07T14:42:29-03:00</updated>
+ <id>http://dehviana.github.io</id>
  <author>
-   <name>Ian Camporez Brunelli</name>
+   <name>André L. Ferreira Viana</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>Hello, Mundo</title>
-   <link href="http://camporez.github.io/blog/hello-mundo"/>
+   <link href="http://dehviana.github.io/blog/hello-mundo"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://camporez.github.io/blog/hello-mundo</id>
+   <id>http://dehviana.github.io/blog/hello-mundo</id>
    <content type="html">&lt;h1 id=&quot;hello-mundo&quot;&gt;hello, mundo&lt;/h1&gt;
 
 &lt;p&gt;I’m a designer/front end engineer, located in São Paulo Brasil. I love desing and film, and I can’t think of anything else more fun to do for a living. I Have formal education in Design (at UAM of São Paulo – Brasil), Audiovisual (UEM of Madrid – Spain) and a english summer class at the university of Liverpool. I continually motivated to perfect my skills and stay on top of the fast moving web world.&lt;/p&gt;
