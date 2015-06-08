@@ -10,6 +10,7 @@ title:		André F. Viana
 tagline:	'Design & Code for web & mobile'
 description:	'I create beautiful, yet functional experiences for both the web and mobile.'
 url:		http://dehviana.github.io
+comments: true
 commentsystem:	disqus
 disqus:		andre_viana
 
