@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://camporez.github.io/blog/hello-mundo</loc>
+        <loc>http://dehviana.github.io/blog/vida-universo-e-tudo-mais</loc>
+    </url>
+    
+    <url>
+        <loc>http://dehviana.github.io/blog/hello-mundo</loc>
     </url>
     
 
@@ -10,7 +14,7 @@
     
     
     <url>
-        <loc>http://camporez.github.io/404.html</loc>
+        <loc>http://dehviana.github.io/404.html</loc>
     </url>
     
     
@@ -20,7 +24,7 @@
     
     
     <url>
-        <loc>http://camporez.github.io/</loc>
+        <loc>http://dehviana.github.io/</loc>
     </url>
     
     
@@ -30,7 +34,7 @@
     
     
     <url>
-        <loc>http://camporez.github.io/sobre.html</loc>
+        <loc>http://dehviana.github.io/sobre.html</loc>
     </url>
     
     

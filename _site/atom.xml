@@ -1,25 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Camporez</title>
- <link href="http://camporez.github.io/atom.xml" rel="self"/>
- <link href="http://camporez.github.io/"/>
- <updated>2015-05-19T18:54:16-03:00</updated>
- <id>http://camporez.github.io</id>
+ <title>André F. Viana</title>
+ <link href="http://dehviana.github.io/atom.xml" rel="self"/>
+ <link href="http://dehviana.github.io/"/>
+ <updated>2015-06-08T12:29:37-03:00</updated>
+ <id>http://dehviana.github.io</id>
  <author>
-   <name>Ian Camporez Brunelli</name>
+   <name>André L. Ferreira Viana</name>
    <email></email>
  </author>
 
  
  <entry>
+   <title>A vida, o universo e tudo mais</title>
+   <link href="http://dehviana.github.io/blog/vida-universo-e-tudo-mais"/>
+   <updated>2015-06-08T00:00:00-03:00</updated>
+   <id>http://dehviana.github.io/blog/vida-universo-e-tudo-mais</id>
+   <content type="html">&lt;h1 id=&quot;sobre-o-blog-ferramentas-e-o-tempo&quot;&gt;Sobre o blog, ferramentas e o tempo.&lt;/h1&gt;
+
+&lt;p&gt;Criei esse blog para comentar sobre algumas ideias e contar sobre o processo do meu trabalho, mas antes de qualquer coisa, acho melhor me apresentar. &lt;/p&gt;
+
+&lt;p&gt;Meu nome é André L. Ferreira Viana, sou designer e desenvolvedor front end, atualmente trabalho na &lt;a href=&quot;http://clickbus.com.br&quot; title=&quot;Click Bus&quot;&gt;ClickBus&lt;/a&gt;. Nascido e criado em Brasília, moro em São Paulo - SP a uns 7 anos. Não consigo pensar em outra coisa mais divertida e interessante para fazer da minha vida. Trabalho a cerca de 5 anos na área da web, tendo cursado Design Digital na &lt;a href=&quot;http://anhembi.br/&quot; title=&quot;Universidade Anhembi Morumbi&quot;&gt;UAM&lt;/a&gt;. Entre minhas especializações acadêmicas, contam também um curso de inglês na cidade Livepool pela &lt;a href=&quot;http://www.liv.ac.uk/&quot; title=&quot;University of Liverpool&quot;&gt;University of Liverpool&lt;/a&gt;, e um intercâmbio na &lt;a href=&quot;http://universidadeuropea.es/en/&quot; title=&quot;Universidad Europea de Madrid&quot;&gt;UEM&lt;/a&gt;. Bom, isso não me defini muito, claro. São apenas cursos em universidades, tenho conhecimentos especifícos de outros cursos, de outras épocas, desde Serigrafia a &lt;a href=&quot;https://trimarchidg.wordpress.com/2009/06/26/30/&quot; title=&quot;História da Tipográfia&quot;&gt;História da Tipográfia&lt;/a&gt; ministrado pelo alienigena espanhol &lt;a href=&quot;http://www.alextrochut.com/&quot; title=&quot;Alex Trochut&quot;&gt;Alex Trochut&lt;/a&gt; no &lt;a href=&quot;http://www.trimarchidg.net/&quot; title=&quot;TMDG&quot;&gt;TMDG 2009&lt;/a&gt;. O que realmente me defini, talvez seria a vontade de aprender sempre, e cada dia mais e a web me proporciona isso.&lt;/p&gt;
+
+&lt;p&gt;Eu pretendo escrever o máximo que der sobre a vida, o universo e tudo mais. O foco será claro tecnologia Front-End e Design, mas isso não me impede de escrever sobre músicas, artes e sei lá, vai saber. &lt;/p&gt;
+
+&lt;h2 id=&quot;tecnologias-utilizadas&quot;&gt;Tecnologias utilizadas&lt;/h2&gt;
+
+&lt;p&gt;Pra mim faz sentido estar sempre tentando utilizar coisas novas, ainda mais nesse mundo virtual em que tudo se torna diferente em alguns messes. Ainda lembro quando começei a pesquisar e incluir novas tecnologias em meu processo diário de trabalho a uns 5 anos atrás. Ná epóca as pessoas estavam começando a falar sobre tableless e sei lá microformats. Hoje esse bagulho está tão louco e misturado que, talvez alguem que não tenha vivenciado essa evolução dos últimos 5 anos não consiga entender se é design ou código. Bom com base nisso, gosto sempre de coisas novas, neste projeto utilizo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; - como a base de todo o blog.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gulpjs.com/&quot;&gt;GulpJS&lt;/a&gt; -taskrunner que utilizo atualmente, gosto do Grunt também, mas a facilidade na sintaxe me faz usá-lo mais frequeentemente.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/SVG&quot;&gt;SVG&lt;/a&gt; - porque SVGS são fodas.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learnboost.github.io/stylus/&quot;&gt;Stylus&lt;/a&gt; - pre-processador css totalmente em Javascript.   &lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; - onde estou hospedando este projeto. Pela facilidade do deploy e versionamento.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fim-do-começo&quot;&gt;O fim do começo&lt;/h2&gt;
+
+&lt;p&gt;Bom, basicamente, essas são cada uma das tecnologias empregadas e os motivos de ter escolhido. Acredito que está lista ou idéias possam vir a mudar a qualquer instante, até porque nunca se sabe quando o acontecimento em um universo paralelo pode vim a alterar nossa concepção de realidade, sem ao menos desconfiarmos de que algo diferente aconteceu. Vai saber. Se isso vir a acontecer, espero me lembrar do número 42. &lt;/p&gt;
+
+&lt;p&gt;Obrigado!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Hello, Mundo</title>
-   <link href="http://camporez.github.io/blog/hello-mundo"/>
+   <link href="http://dehviana.github.io/blog/hello-mundo"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://camporez.github.io/blog/hello-mundo</id>
+   <id>http://dehviana.github.io/blog/hello-mundo</id>
    <content type="html">&lt;h1 id=&quot;hello-mundo&quot;&gt;hello, mundo&lt;/h1&gt;
 
 &lt;p&gt;I’m a designer/front end engineer, located in São Paulo Brasil. I love desing and film, and I can’t think of anything else more fun to do for a living. I Have formal education in Design (at UAM of São Paulo – Brasil), Audiovisual (UEM of Madrid – Spain) and a english summer class at the university of Liverpool. I continually motivated to perfect my skills and stay on top of the fast moving web world.&lt;/p&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  Esta página estará pronta em breve! Enquanto isso, fique com este belo texto em latim a seguir.
+&lt;/div&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget neque fringilla, pulvinar odio sit amet, malesuada ligula. Curabitur aliquam tempor nibh vel convallis. Integer erat dolor, convallis nec felis at, gravida volutpat magna. Fusce nec nunc id risus tempus luctus. Integer vehicula ipsum fermentum est lobortis condimentum. Nulla at placerat ipsum, quis mollis dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum a sagittis velit. Etiam non diam quis massa fermentum tristique. Cras porta, magna a malesuada facilisis, magna diam mattis odio, ac placerat erat erat a orci. Proin id metus nulla. In at nisi eu nisi elementum tincidunt eu at ipsum. Praesent condimentum varius quam, a rutrum sem ultricies eu. Quisque nisl sem, lobortis et laoreet mattis, faucibus at quam. Suspendisse potenti. Nunc eget purus eget metus convallis auctor eu in libero.&lt;/p&gt;
+
+&lt;p&gt;Obrigado!&lt;/p&gt;
 </content>
  </entry>
  

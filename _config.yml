@@ -7,11 +7,11 @@ permalink:	/blog/:title
 
 # Setup
 title:		André F. Viana
-tagline:	'Fresh, original design & code for web & mobil'
-description:	'Fresh and original. I create beautiful, yet functional experiences for both the web and mobile.'
+tagline:	'Design & Code for web & mobile'
+description:	'I create beautiful, yet functional experiences for both the web and mobile.'
 url:		http://dehviana.github.io
-commentsystem:	google
-disqus:		dehviana
+commentsystem:	disqus
+disqus:		andre_viana
 
 author:
   name:		'André L. Ferreira Viana'
@@ -31,10 +31,6 @@ social:
   - icon:	github
     url:	https://github.com/dehviana
     desc:	Acesse meu github
-
-  - icon:	googleplus-alt
-    url:	https://behance.net/dehviana
-    desc:	Me adicione no Behance
 
   - icon:	feed
     url:	http://dehviana.github.io/atom.xml
